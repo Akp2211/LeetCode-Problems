@@ -1,0 +1,24 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        if (nums.size() < 2) return nums[0];
+
+        // array to store the maximum loot
+        vector<int> dp(nums.size(),0);
+
+        // Memoize maximum loots at first 2 indexes
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
+
+        for (int i = 2; i < nums.size(); i++) {
+            // Core logic
+            dp[i] = max(dp[i - 2] + nums[i], dp[i - 1]);
+        }
+
+        return dp[nums.size()-1];
+    }
+};
