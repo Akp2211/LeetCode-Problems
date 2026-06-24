@@ -65,6 +65,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -73,8 +74,17 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
