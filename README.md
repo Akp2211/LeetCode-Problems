@@ -40,3 +40,23 @@ The goal of this repository is to maintain a well-structured and easy-to-underst
 - LinkedIn: *https://www.linkedin.com/in/alok-kumar-pandey-015379318/*
 
 Happy Coding! 😊
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+<!---LeetCode Topics End-->
