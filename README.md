@@ -54,11 +54,13 @@ Happy Coding! 😊
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
@@ -78,6 +80,7 @@ Happy Coding! 😊
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -87,4 +90,12 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
