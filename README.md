@@ -48,6 +48,7 @@ Happy Coding! 😊
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -135,8 +136,10 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
