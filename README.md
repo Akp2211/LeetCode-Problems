@@ -142,4 +142,8 @@ Happy Coding! 😊
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Akp2211/LeetCode-Problems/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
