@@ -47,6 +47,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -106,6 +107,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
+| [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -141,6 +143,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Database
 |  |
