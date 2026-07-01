@@ -68,6 +68,7 @@ Happy Coding! 😊
 | [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -103,16 +104,19 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -123,6 +127,7 @@ Happy Coding! 😊
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -149,4 +154,16 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Akp2211/LeetCode-Problems/tree/master/0177-nth-highest-salary) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
