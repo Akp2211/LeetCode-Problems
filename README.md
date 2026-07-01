@@ -111,6 +111,7 @@ Happy Coding! 😊
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -166,4 +167,8 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
