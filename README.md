@@ -80,6 +80,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Happy Coding! 😊
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -195,4 +197,8 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
