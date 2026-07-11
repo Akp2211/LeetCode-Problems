@@ -109,6 +109,7 @@ Happy Coding! 😊
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Akp2211/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Happy Coding! 😊
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+| [1288-remove-covered-intervals](https://github.com/Akp2211/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
