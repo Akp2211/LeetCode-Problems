@@ -49,6 +49,7 @@ Happy Coding! 😊
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/Akp2211/LeetCode-Problems/tree/master/0355-design-twitter) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -76,6 +77,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -86,6 +88,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akp2211/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akp2211/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
@@ -117,6 +120,7 @@ Happy Coding! 😊
 | ------- |
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/Akp2211/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +132,7 @@ Happy Coding! 😊
 ## Divide and Conquer
 |  |
 | ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
