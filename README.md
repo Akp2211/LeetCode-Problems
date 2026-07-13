@@ -206,4 +206,8 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
