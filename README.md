@@ -127,6 +127,7 @@ Happy Coding! 😊
 | [1331-rank-transform-of-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -215,4 +216,16 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
