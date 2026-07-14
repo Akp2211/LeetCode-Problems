@@ -161,6 +161,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Akp2211/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -192,6 +193,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akp2211/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 ## Queue
 |  |
 | ------- |
@@ -228,4 +230,12 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
