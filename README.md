@@ -222,6 +222,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akp2211/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akp2211/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
