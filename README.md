@@ -123,6 +123,7 @@ Happy Coding! 😊
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Akp2211/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -190,6 +191,7 @@ Happy Coding! 😊
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -208,6 +210,7 @@ Happy Coding! 😊
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akp2211/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
