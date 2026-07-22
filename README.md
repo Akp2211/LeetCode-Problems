@@ -119,6 +119,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akp2211/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akp2211/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -196,6 +197,7 @@ Happy Coding! 😊
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akp2211/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Akp2211/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/Akp2211/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -227,6 +229,7 @@ Happy Coding! 😊
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akp2211/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akp2211/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akp2211/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
