@@ -116,6 +116,7 @@ Happy Coding! 😊
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Akp2211/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -170,6 +171,7 @@ Happy Coding! 😊
 | [0316-remove-duplicate-letters](https://github.com/Akp2211/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akp2211/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akp2211/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Akp2211/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
