@@ -121,6 +121,7 @@ Happy Coding! 😊
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Akp2211/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/Akp2211/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akp2211/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Akp2211/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -261,4 +262,8 @@ Happy Coding! 😊
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akp2211/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Akp2211/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Akp2211/LeetCode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
